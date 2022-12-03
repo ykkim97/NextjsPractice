@@ -1,14 +1,9 @@
-.index-Container {
+.item-container {
     width: 80%;
     display: block;
-    margin: 0 auto;
+    margin: auto;
 }
 
 .loading-Container {
     padding: 500px 0;
 }
-
-.listTitle {
-    text-align: left;
-}
-

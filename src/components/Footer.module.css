@@ -1,0 +1,10 @@
+.footer-container {
+    width: 80%;
+    display: block;
+    margin: auto;
+    background: rgb(228, 226, 226);
+    height: 80px;
+    text-align: center;
+    padding: 100px 0;
+    font-size: 20px;
+}
