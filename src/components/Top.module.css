@@ -1,0 +1,13 @@
+.top-logo-container {
+    display: flex;
+}
+
+.top-logo-img-container{
+    flex: 100px 0 0;
+}
+
+.top-logo {
+    display: block;
+    width: 80px;
+    height: 80px;
+}
