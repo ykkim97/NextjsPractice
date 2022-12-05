@@ -1,0 +1,9 @@
+.item-container {
+    width: 80%;
+    display: block;
+    margin: auto;
+}
+
+.loading-Container {
+    padding: 500px 0;
+}
